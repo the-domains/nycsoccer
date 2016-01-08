@@ -2,6 +2,7 @@ name: NYCsoccer
 favicon: null
 layout_spectrum: 0.26316
 typography_spectrum: 0.880092583829537
+title: NYC Soccer
 cta:
   domain: null
   bucket: null
