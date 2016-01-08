@@ -1,0 +1,28 @@
+name: NYCsoccer
+favicon: null
+layout_spectrum: 0.7189222513698041
+typography_spectrum: 0.880092583829537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9237857144325972
+  lightness: 0.5202344164717942
+  saturation: 0.47799869254231453
+  rhythmicContrast: 0.5810682629235089
+purpose: []
