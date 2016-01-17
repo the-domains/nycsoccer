@@ -1,29 +1,41 @@
-name: NYCsoccer
-favicon: null
-layout_spectrum: 0.26316
-typography_spectrum: 0.880092583829537
 title: NYC Soccer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-16465479-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4779986925423145
+  brandStrength: 1
+  rhythmicContrast: 0.5810682629235089
   brandColors:
     - '#ffffff'
     - '#c80014'
     - '#000000'
     - '#008a28'
     - '#8f8f8f'
-  brandStrength: 1
   lightness: 0.5202344164717942
-  saturation: 0.47799869254231453
-  rhythmicContrast: 0.5810682629235089
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-16465479-1
+  facebook: null
+name: NYCsoccer
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.880092583829537
+layout_spectrum: 0.9650913
